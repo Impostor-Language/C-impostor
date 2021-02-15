@@ -12,6 +12,10 @@
      function=9292, 0111"
       print("serverBody")
       print("serverBody")
+     function=9382, 2928"
+      print("ServerIP")
+      print("ServerIP")
+
    //Tokens: Attention: This Tokens are Installed Mython!//
       function="0110, 0738"
        codename="java"
