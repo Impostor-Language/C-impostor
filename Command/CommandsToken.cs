@@ -20,5 +20,22 @@ start.style
               Lang. ==> Border.from
        AmongUsServer. ==> Border.from
           AmongUsServer.ip
+         
+        MyBox Server == ("host.ip")
+         MyBox.Language ==> 
+      MyBox == 
+       GetScriptFromLang.
+        codename="serverIP"
+           name.api
+       server.host("name.localHost;000")
+         MyBox.lang("server")
+            MyBox.ip("server.host")
+      ServerHost("inputServer")
+            server.lang( == amongUsServer
+         amongUsApi.token
+           code.name("amongUs")
 
+            
+
+    
  
