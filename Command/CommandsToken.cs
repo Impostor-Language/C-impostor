@@ -9,4 +9,16 @@ start.style
           MyBox.style
     Host.myBox( == AmongUsServer
     Player.input( == CreateAmongUsServer
-       
+          MyBox.server == ("host.player")
+          MyBox.Language ==> 
+      MyBox == 
+           GetScriptFromLang.
+        codename="serverBorder"
+           createAAmongUsServer.token
+        form.lang
+            Ali.toe
+              Lang. ==> Border.from
+       AmongUsServer. ==> Border.from
+          AmongUsServer.ip
+
+ 
